@@ -23,7 +23,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Sistem Parkir berbasis NestJS dan Prisma, dikembangkan oleh Farell Valentino sebagai project Case Study.
 
 ## Project setup
 
@@ -89,7 +89,8 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
+- Developer - Farell Valentino
+- Framework Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
 - Website - [https://nestjs.com](https://nestjs.com/)
 - Twitter - [@nestframework](https://twitter.com/nestframework)
 
